@@ -1,7 +1,6 @@
 #pragma once
 
-#include <cstdint>
-
+#include <stdint.h>
 /**
  * @brief Simple container for an 8-bit register value with bit helpers.
  *
