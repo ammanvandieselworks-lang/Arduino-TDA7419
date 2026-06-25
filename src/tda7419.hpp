@@ -1,7 +1,7 @@
 #pragma once
 
-#include <cstdint>
-#include <array>        // added
+#include <stdint.h>
+// #include <array>        // added
 #include <Wire.h>
 #include "bitStorage.hpp"
 
